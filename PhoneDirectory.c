@@ -515,7 +515,7 @@ char clave[20],archclav[20];
 }
 /**********************************************************************/
 
-void encriptar(){	/*Encrita el archivo*/
+void encriptar(){	/*Encripta el archivo*/
 FILE *arc,*enc;
 char car,nombre[20];
    
